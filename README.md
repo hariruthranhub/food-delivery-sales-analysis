@@ -1,38 +1,3 @@
-# Food Delivery Sales & Customer Insights
-
-Exploratory data analysis of food delivery order data using Python, built as part of the **Naan Mudhalvan Arts Internship Program 2026 — Python for Data Analytics**.
-
-## Project Overview
-
-A food delivery company wants to understand customer ordering patterns and identify its most popular food items, in order to improve operational planning — staffing during peak hours, promoting high-margin dishes, and allocating delivery partners across zones.
-
-This project analyzes a sample order log (650+ orders over a 90-day window, across 8 delivery zones) to answer:
-
-- When do customers order the most? (peak order times)
-- What are the most popular dishes?
-- Which delivery areas generate the most orders?
-- Which food categories generate the most revenue?
-- How do customers prefer to pay?
-
-## Tools & Libraries
-
-| Library | Purpose |
-|---|---|
-| **Pandas** | Loading, cleaning, and aggregating order data |
-| **NumPy** | Numerical operations and synthetic data generation |
-| **Matplotlib** | Bar charts, pie charts, and the combined dashboard |
-
-## Repository Structure
-
-```
-├── Food_Delivery_Sales_Analysis.ipynb   # Main analysis notebook (cleaning + EDA + visualizations)
-├── food_delivery_orders.csv             # Raw order data (with missing values & duplicates)
-├── food_delivery_orders_cleaned.csv     # Cleaned dataset used for analysis
-├── generate_dataset.py                  # Script used to generate the sample order dataset
-├── charts/                              # Exported chart images
-└── requirements.txt                     # Python dependencies
-```
-
 ## Key Insights
 
 - Orders peak around **lunch (12–1 PM)** and **dinner (7–9 PM)**, a classic bimodal food-delivery demand pattern.
@@ -41,7 +6,7 @@ This project analyzes a sample order log (650+ orders over a 90-day window, acro
 - **UPI** is the most-used payment method, ahead of cards, cash on delivery, and wallets.
 - Average delivery time is **~36 minutes** with an average customer rating of **~4.4 / 5**.
 
-![Business Dashboard](charts/06_business_dashboard.png)
+![Business Dashboard](06_business_dashboard.png)
 
 ## How to Run
 
