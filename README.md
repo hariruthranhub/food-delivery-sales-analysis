@@ -24,6 +24,13 @@ This project analyzes a sample order log (650+ orders over a 90-day window, acro
 
 ## Repository Structure
 
+- `Food_Delivery_Sales_Analysis.ipynb` — Main analysis notebook (cleaning + EDA + visualizations)
+- `food_delivery_orders.csv` — Raw order data (with missing values & duplicates)
+- `food_delivery_orders_cleaned.csv` — Cleaned dataset used for analysis
+- `generate_dataset.py` — Script used to generate the sample order dataset
+- `01_peak_order_hours.png` to `06_business_dashboard.png` — Exported chart images
+- `requirements.txt` — Python dependencies
+
 ## Key Insights
 
 - Orders peak around **lunch (12–1 PM)** and **dinner (7–9 PM)**, a classic bimodal food-delivery demand pattern.
@@ -43,4 +50,4 @@ This project analyzes a sample order log (650+ orders over a 90-day window, acro
 
 ## Author
 
-[HARIHARA RUTHRAN V ] — Naan Mudhalvan Arts Internship Program 2026
+HARIHARA RUTHRAN V — Naan Mudhalvan Arts Internship Program 2026
