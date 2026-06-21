@@ -1,0 +1,673 @@
+order_id,customer_id,order_date,order_time,area,dish_name,category,quantity,price,total_amount,delivery_time_mins,rating,payment_method
+1614,CUST0215,2026-03-24,15:19,Velachery,Margherita Pizza,Fast Food,3,250,750,41.0,5.0,Cash on Delivery
+1300,CUST0066,2026-02-18,15:15,T Nagar,Paneer Butter Masala,North Indian,1,190,190,25.0,4.0,UPI
+1325,CUST0013,2026-03-16,20:52,Tambaram,Paneer Butter Masala,North Indian,1,190,190,25.0,5.0,Cash on Delivery
+1299,CUST0089,2026-03-20,12:51,Adyar,Butter Naan,North Indian,1,40,40,35.0,3.0,UPI
+1145,CUST0178,2026-01-22,22:57,porur,Veg Burger,Fast Food,3,110,330,18.0,5.0,Cash on Delivery
+1353,CUST0157,2026-03-06,20:59,Tambaram,Margherita Pizza,Fast Food,1,250,250,48.0,5.0,Cash on Delivery
+1515,CUST0058,2026-01-20,21:08,Velachery,Chicken 65,Starters,1,200,200,18.0,,Cash on Delivery
+1408,CUST0195,2026-01-03,19:46,Nungambakkam,Egg Fried Rice,Chinese,1,150,150,36.0,4.0,UPI
+1119,CUST0075,2026-02-03,15:46,T Nagar,Mutton Biryani,Biryani,1,280,280,19.0,5.0,UPI
+1149,CUST0208,2026-01-14,16:24,Tambaram,Cold Coffee,Beverages,3,80,240,41.0,4.0,Cash on Delivery
+1097,CUST0171,2026-02-16,16:08,Anna Nagar,Cold Coffee,Beverages,1,80,80,28.0,4.0,UPI
+1612,CUST0149,2026-03-09,19:58,Tambaram,Idli Sambar,South Indian,2,70,140,46.0,5.0,
+1061,CUST0001,2026-01-04,21:27,Mylapore,Mutton Biryani,Biryani,1,280,280,46.0,5.0,Card
+1170,CUST0177,2026-01-30,17:29,Adyar,Chole Bhature,North Indian,1,130,130,53.0,5.0,
+1241,CUST0098,2026-02-24,19:55,T Nagar,Chicken 65,Starters,1,200,200,38.0,,UPI
+1392,CUST0131,2026-03-06,19:52,Nungambakkam,Paneer Butter Masala,North Indian,1,190,190,35.0,4.0,UPI
+1403,CUST0192,2026-03-05,22:14,Anna Nagar,Butter Naan,North Indian,1,40,40,32.0,5.0,Card
+1435,CUST0061,2026-03-14,12:48,Adyar,Veg Fried Rice,Chinese,1,140,140,,5.0,UPI
+1421,CUST0074,2026-01-01,19:18,Adyar,Chicken Biryani,Biryani,1,220,220,35.0,3.0,UPI
+1222,CUST0089,2026-02-26,10:23,Anna Nagar,Veg Manchurian,Chinese,2,160,320,23.0,4.0,Wallet
+1027,CUST0164,2026-01-17,19:43,Nungambakkam,Mutton Biryani,Biryani,1,280,280,54.0,5.0,Card
+1199,CUST0134,2026-01-05,23:01, Velachery ,Margherita Pizza,Fast Food,1,250,250,44.0,5.0,Card
+1569,CUST0127,2026-03-28,21:26,Adyar,Veg Burger,Fast Food,1,110,110,44.0,4.0,Cash on Delivery
+1248,CUST0051,2026-01-15,21:45,Adyar,Veg Biryani,Biryani,1,170,170,54.0,4.0,UPI
+1537,CUST0196,2026-01-20,12:24,adyar,Margherita Pizza,Fast Food,2,250,500,27.0,5.0,Cash on Delivery
+1003,CUST0099,2026-01-21,18:53,Anna Nagar,Veg Burger,Fast Food,1,110,110,24.0,4.0,Wallet
+1094,CUST0116,2026-02-25,13:39,nungambakkam,Paneer Butter Masala,North Indian,1,190,190,26.0,5.0,UPI
+1350,CUST0109,2026-02-20,22:49,Adyar,Cold Coffee,Beverages,1,80,80,50.0,5.0,Card
+1463,CUST0021,2026-03-13,19:23,Adyar,Paneer Butter Masala,North Indian,3,190,570,48.0,4.0,Card
+1335,CUST0186,2026-01-05,22:39,Porur,Filter Coffee,Beverages,1,30,30,50.0,4.0,UPI
+1156,CUST0008,2026-01-31,12:10,Anna Nagar,Veg Burger,Fast Food,1,110,110,49.0,5.0,UPI
+1251,CUST0128,2026-03-13,13:02,Adyar,Filter Coffee,Beverages,1,30,30,24.0,5.0,UPI
+1220,CUST0166,2026-01-12,12:12,Velachery,Paneer Butter Masala,North Indian,2,190,380,35.0,5.0,Cash on Delivery
+1617,CUST0063,2026-01-20,22:45,Mylapore,Margherita Pizza,Fast Food,1,250,250,41.0,5.0,UPI
+1026,CUST0145,2026-03-08,13:44,Anna Nagar,Veg Biryani,Biryani,1,170,170,52.0,5.0,UPI
+1286,CUST0117,2026-01-07,21:45, Velachery ,Masala Dosa,South Indian,2,90,180,51.0,5.0,UPI
+1441,CUST0030,2026-03-26,14:26,ADYAR,Gulab Jamun,Desserts,2,60,120,30.0,3.0,UPI
+1283,CUST0017,2026-03-25,13:15,Anna Nagar,Chicken Biryani,Biryani,1,220,220,30.0,3.0,UPI
+1208,CUST0029,2026-03-19,13:22,Tambaram,Cold Coffee,Beverages,1,80,80,46.0,5.0,Wallet
+1330,CUST0161,2026-03-28,14:35,Mylapore,Margherita Pizza,Fast Food,2,250,500,34.0,,UPI
+1202,CUST0111,2026-02-17,20:12,Adyar,Mutton Biryani,Biryani,1,280,280,,5.0,Wallet
+1424,CUST0217,2026-02-20,20:59,Adyar,Margherita Pizza,Fast Food,1,250,250,19.0,,Card
+1625,CUST0157,2026-03-26,11:20,Nungambakkam,Chicken Shawarma,Fast Food,3,150,450,30.0,4.0,Card
+1231,CUST0104,2026-01-05,14:49,Nungambakkam,Chicken Biryani,Biryani,1,220,220,33.0,3.0,Cash on Delivery
+1465,CUST0063,2026-02-09,20:04,Nungambakkam,Veg Fried Rice,Chinese,1,140,140,25.0,5.0,Cash on Delivery
+1627,CUST0084,2026-03-02,15:10,Velachery,Filter Coffee,Beverages,2,30,60,35.0,4.0,UPI
+1318,CUST0033,2026-02-21,20:08,Porur,Veg Biryani,Biryani,1,170,170,49.0,3.0,UPI
+1487,CUST0148,2026-03-10,14:14,velachery,Veg Biryani,Biryani,2,170,340,46.0,4.0,UPI
+1154,CUST0071,2026-01-16,21:29,Adyar,Margherita Pizza,Fast Food,1,250,250,23.0,4.0,Card
+1138,CUST0067,2026-03-08,15:44,Porur,Chicken 65,Starters,1,200,200,38.0,5.0,UPI
+1192,CUST0204,2026-01-29,13:09,Adyar,Veg Biryani,Biryani,1,170,170,54.0,5.0,Wallet
+1181,CUST0193,2026-03-13,21:04, Adyar ,Paneer Butter Masala,North Indian,2,190,380,20.0,5.0,Card
+1136,CUST0145,2026-02-25,14:57,Tambaram,Chicken 65,Starters,2,200,400,24.0,3.0,UPI
+1420,CUST0067,2026-01-07,21:03,VELACHERY,Chicken Shawarma,Fast Food,2,150,300,41.0,5.0,UPI
+1489,CUST0049,2026-01-20,22:28,Porur,Chicken 65,Starters,1,200,200,27.0,4.0,UPI
+1361,CUST0187,2026-03-03,18:01,Velachery,Veg Burger,Fast Food,2,110,220,18.0,5.0,UPI
+1412,CUST0049,2026-01-28,20:46,Tambaram,Veg Biryani,Biryani,1,170,170,29.0,5.0,Wallet
+1542,CUST0187,2026-01-11,21:23, Velachery ,Chicken 65,Starters,1,200,200,53.0,5.0,UPI
+1458,CUST0116,2026-03-04,21:55,Mylapore,Veg Fried Rice,Chinese,3,140,420,38.0,4.0,UPI
+1221,CUST0140,2026-01-24,13:07,Adyar,Mutton Biryani,Biryani,2,280,560,36.0,4.0,Cash on Delivery
+1521,CUST0095,2026-01-13,21:45,Mylapore,Filter Coffee,Beverages,1,30,30,36.0,5.0,Wallet
+1379,CUST0078,2026-02-27,19:29,Adyar,Chole Bhature,North Indian,1,130,130,25.0,4.0,UPI
+1414,CUST0011,2026-02-25,12:15,Porur,Mutton Biryani,Biryani,3,280,840,53.0,5.0,Card
+1240,CUST0168,2026-02-10,22:41, Anna Nagar ,Veg Fried Rice,Chinese,1,140,140,28.0,5.0,Card
+1366,CUST0101,2026-01-24,19:42,Porur,Veg Burger,Fast Food,1,110,110,21.0,5.0,UPI
+1279,CUST0082,2026-01-24,14:24,Adyar,Chicken 65,Starters,1,200,200,42.0,5.0,Card
+1407,CUST0047,2026-03-29,17:18,Mylapore,Margherita Pizza,Fast Food,1,250,250,25.0,3.0,Card
+1599,CUST0135,2026-01-26,20:10,Anna Nagar,Paneer Butter Masala,North Indian,1,190,190,54.0,5.0,Wallet
+1211,CUST0157,2026-01-21,21:04,Nungambakkam,Gulab Jamun,Desserts,2,60,120,22.0,4.0,UPI
+1292,CUST0172,2026-01-15,18:08,Tambaram,Veg Burger,Fast Food,1,110,110,24.0,4.0,Wallet
+1089,CUST0026,2026-01-25,21:51,T Nagar,Chicken Biryani,Biryani,1,220,220,34.0,5.0,Wallet
+1203,CUST0161,2026-01-25,12:05,Porur,Mutton Biryani,Biryani,1,280,280,32.0,5.0,Wallet
+1151,CUST0111,2026-02-19,18:17,Mylapore,Veg Manchurian,Chinese,3,160,480,18.0,5.0,UPI
+1255,CUST0051,2026-02-10,16:22,Anna Nagar,Veg Burger,Fast Food,2,110,220,22.0,4.0,Wallet
+1628,CUST0215,2026-03-21,12:22,Nungambakkam,Chicken Biryani,Biryani,1,220,220,28.0,4.0,UPI
+1534,CUST0004,2026-03-06,12:20,Mylapore,Butter Naan,North Indian,2,40,80,44.0,4.0,Card
+1034,CUST0191,2026-01-11,16:22,Anna Nagar,Margherita Pizza,Fast Food,1,250,250,42.0,,UPI
+1130,CUST0106,2026-02-03,13:33,T Nagar,Chicken Biryani,Biryani,1,220,220,27.0,5.0,UPI
+1250,CUST0189,2026-02-04,21:31,T Nagar,Masala Dosa,South Indian,3,90,270,29.0,,Wallet
+1057,CUST0064,2026-03-01,10:00,Anna Nagar,Chicken Biryani,Biryani,1,220,220,54.0,4.0,Cash on Delivery
+1457,CUST0063,2026-03-19,14:16,Mylapore,Chole Bhature,North Indian,1,130,130,31.0,3.0,Wallet
+1321,CUST0134,2026-02-23,21:41,Nungambakkam,Margherita Pizza,Fast Food,2,250,500,25.0,5.0,UPI
+1184,CUST0022,2026-01-21,23:48,T Nagar,Veg Manchurian,Chinese,2,160,320,20.0,5.0,UPI
+1328,CUST0144,2026-01-26,19:47,Porur,Egg Fried Rice,Chinese,1,150,150,,4.0,Card
+1312,CUST0128,2026-01-28,16:08,Anna Nagar,Margherita Pizza,Fast Food,1,250,250,43.0,5.0,UPI
+1340,CUST0112,2026-03-16,18:14,porur,Gulab Jamun,Desserts,1,60,60,31.0,4.0,UPI
+1449,CUST0189,2026-01-29,14:16,Tambaram,Veg Fried Rice,Chinese,1,140,140,43.0,5.0,Card
+1256,CUST0003,2026-01-31,12:32,Porur,Veg Manchurian,Chinese,2,160,320,25.0,5.0,Wallet
+1308,CUST0208,2026-01-22,16:29,Anna Nagar,Filter Coffee,Beverages,1,30,30,30.0,5.0,Wallet
+1575,CUST0045,2026-01-12,18:10,Adyar,Cold Coffee,Beverages,1,80,80,18.0,5.0,UPI
+1316,CUST0182,2026-01-09,19:53,Porur,Paneer Butter Masala,North Indian,1,190,190,43.0,4.0,Card
+1271,CUST0071,2026-02-05,21:00,Velachery,Filter Coffee,Beverages,1,30,30,23.0,5.0,UPI
+1129,CUST0087,2026-02-18,16:21,T Nagar,Chicken Biryani,Biryani,3,220,660,21.0,5.0,UPI
+1219,CUST0037,2026-02-07,15:14,Porur,Veg Biryani,Biryani,2,170,340,21.0,3.0,Card
+1050,CUST0092,2026-03-07,22:20,Nungambakkam,Paneer Butter Masala,North Indian,1,190,190,46.0,4.0,UPI
+1040,CUST0183,2026-03-04,21:05,Nungambakkam,Gulab Jamun,Desserts,2,60,120,51.0,5.0,Card
+1118,CUST0195,2026-02-01,19:36,Velachery,Veg Fried Rice,Chinese,2,140,280,33.0,,UPI
+1166,CUST0022,2026-02-16,12:10,Mylapore,Paneer Butter Masala,North Indian,1,190,190,49.0,3.0,UPI
+1298,CUST0056,2026-02-23,19:02,Anna Nagar,Veg Manchurian,Chinese,1,160,160,30.0,5.0,Cash on Delivery
+1377,CUST0165,2026-01-26,20:36,Anna Nagar,Cold Coffee,Beverages,3,80,240,52.0,,UPI
+1021,CUST0080,2026-03-16,22:32,T Nagar,Filter Coffee,Beverages,1,30,30,42.0,4.0,Cash on Delivery
+1648,CUST0045,2026-01-29,11:07,T Nagar,Masala Dosa,South Indian,1,90,90,53.0,3.0,UPI
+1172,CUST0079,2026-03-14,22:37,Nungambakkam,Chole Bhature,North Indian,1,130,130,52.0,4.0,Card
+1093,CUST0215,2026-01-26,22:23,T Nagar,Butter Naan,North Indian,2,40,80,29.0,5.0,Card
+1022,CUST0148,2026-03-07,20:43,Adyar,Margherita Pizza,Fast Food,1,250,250,21.0,3.0,Card
+1491,CUST0172,2026-03-21,14:55,Tambaram,Paneer Butter Masala,North Indian,1,190,190,20.0,4.0,UPI
+1410,CUST0098,2026-01-13,16:43, Adyar ,Gulab Jamun,Desserts,2,60,120,18.0,5.0,Wallet
+1005,CUST0203,2026-03-09,23:24,Adyar,Chole Bhature,North Indian,1,130,130,47.0,4.0,Card
+1215,CUST0211,2026-01-25,22:33,Adyar,Masala Dosa,South Indian,1,90,90,43.0,5.0,Cash on Delivery
+1150,CUST0016,2026-01-23,21:16,T Nagar,Chicken Biryani,Biryani,2,220,440,42.0,4.0,UPI
+1096,CUST0218,2026-03-02,20:54,Velachery,Veg Fried Rice,Chinese,1,140,140,24.0,,Wallet
+1122,CUST0143,2026-01-22,13:15,Adyar,Margherita Pizza,Fast Food,2,250,500,46.0,5.0,Wallet
+1476,CUST0156,2026-03-21,23:11,ADYAR,Margherita Pizza,Fast Food,1,250,250,48.0,5.0,UPI
+1185,CUST0030,2026-02-08,10:12,Tambaram,Gulab Jamun,Desserts,3,60,180,42.0,,UPI
+1428,CUST0167,2026-03-08,22:38,Nungambakkam,Chicken Biryani,Biryani,1,220,220,33.0,4.0,UPI
+1159,CUST0010,2026-03-16,15:41,Porur,Mutton Biryani,Biryani,1,280,280,24.0,4.0,Wallet
+1110,CUST0197,2026-01-15,13:37,Mylapore,Veg Fried Rice,Chinese,1,140,140,19.0,5.0,Cash on Delivery
+1272,CUST0005,2026-03-18,12:25,Anna Nagar,Cold Coffee,Beverages,1,80,80,46.0,5.0,Cash on Delivery
+1358,CUST0110,2026-03-04,14:44,Mylapore,Margherita Pizza,Fast Food,1,250,250,47.0,5.0,UPI
+1571,CUST0193,2026-01-04,15:56,Nungambakkam,Paneer Butter Masala,North Indian,2,190,380,53.0,4.0,Card
+1490,CUST0092,2026-03-29,19:22,Porur,Egg Fried Rice,Chinese,1,150,150,31.0,4.0,Cash on Delivery
+1378,CUST0162,2026-03-16,20:48, T Nagar ,Masala Dosa,South Indian,1,90,90,26.0,5.0,Cash on Delivery
+1400,CUST0174,2026-03-24,18:32,Anna Nagar,Veg Manchurian,Chinese,1,160,160,35.0,5.0,UPI
+1358,CUST0110,2026-03-04,14:44,Mylapore,Margherita Pizza,Fast Food,1,250,250,47.0,5.0,UPI
+1608,CUST0016,2026-02-12,13:40,T Nagar,Chicken Shawarma,Fast Food,2,150,300,45.0,3.0,Cash on Delivery
+1399,CUST0164,2026-01-22,11:57,Tambaram,Mutton Biryani,Biryani,1,280,280,40.0,,UPI
+1567,CUST0093,2026-01-24,21:18,Anna Nagar,Mutton Biryani,Biryani,2,280,560,28.0,4.0,UPI
+1281,CUST0149,2026-03-09,12:17,Nungambakkam,Cold Coffee,Beverages,1,80,80,23.0,5.0,Wallet
+1646,CUST0182,2026-03-15,12:07,Anna Nagar,Masala Dosa,South Indian,1,90,90,,4.0,UPI
+1105,CUST0064,2026-01-23,22:33,Velachery,Egg Fried Rice,Chinese,3,150,450,20.0,5.0,UPI
+1263,CUST0156,2026-01-07,20:11,Nungambakkam,Idli Sambar,South Indian,1,70,70,,5.0,Cash on Delivery
+1647,CUST0002,2026-01-28,12:07,Mylapore,Mutton Biryani,Biryani,2,280,560,19.0,5.0,Cash on Delivery
+1062,CUST0041,2026-02-18,19:47,Nungambakkam,Mutton Biryani,Biryani,2,280,560,39.0,4.0,Card
+1180,CUST0023,2026-01-23,23:33,Mylapore,Masala Dosa,South Indian,1,90,90,40.0,4.0,UPI
+1591,CUST0056,2026-02-04,12:34,T Nagar,Veg Biryani,Biryani,1,170,170,53.0,5.0,Cash on Delivery
+1307,CUST0153,2026-01-04,20:37,Anna Nagar,Chicken Biryani,Biryani,2,220,440,54.0,5.0,Card
+1277,CUST0160,2026-03-19,16:07,Adyar,Margherita Pizza,Fast Food,1,250,250,30.0,5.0,UPI
+1511,CUST0081,2026-02-19,13:07,Adyar,Cold Coffee,Beverages,1,80,80,40.0,,UPI
+1448,CUST0008,2026-01-03,17:19,Adyar,Veg Fried Rice,Chinese,1,140,140,31.0,5.0,Cash on Delivery
+1263,CUST0156,2026-01-07,20:11,Nungambakkam,Idli Sambar,South Indian,1,70,70,,5.0,Cash on Delivery
+1301,CUST0152,2026-02-18,20:01,Velachery,Veg Fried Rice,Chinese,3,140,420,29.0,5.0,
+1478,CUST0085,2026-03-07,11:44,Anna Nagar,Chicken Shawarma,Fast Food,1,150,150,46.0,5.0,Wallet
+1294,CUST0179,2026-01-27,19:15,Velachery,Cold Coffee,Beverages,2,80,160,22.0,4.0,UPI
+1565,CUST0164,2026-03-29,10:28,Mylapore,Chicken Shawarma,Fast Food,1,150,150,38.0,4.0,Wallet
+1326,CUST0210,2026-02-07,20:26,Velachery,Mutton Biryani,Biryani,1,280,280,54.0,5.0,Card
+1289,CUST0145,2026-02-10,13:58,Velachery,Masala Dosa,South Indian,2,90,180,24.0,5.0,UPI
+1387,CUST0161,2026-01-08,23:24,T Nagar,Egg Fried Rice,Chinese,1,150,150,22.0,5.0,UPI
+1574,CUST0089,2026-03-31,20:31,Nungambakkam,Chicken 65,Starters,3,200,600,35.0,4.0,UPI
+1536,CUST0058,2026-02-19,18:02,Adyar,Veg Biryani,Biryani,1,170,170,38.0,3.0,Cash on Delivery
+1012,CUST0146,2026-01-29,09:10,Anna Nagar,Chicken 65,Starters,1,200,200,21.0,4.0,Card
+1116,CUST0163,2026-03-27,12:34,Nungambakkam,Margherita Pizza,Fast Food,2,250,500,51.0,3.0,UPI
+1374,CUST0127,2026-02-18,20:40,Adyar,Idli Sambar,South Indian,1,70,70,54.0,5.0,UPI
+1538,CUST0208,2026-02-24,22:28,Velachery,Butter Naan,North Indian,1,40,40,36.0,5.0,UPI
+1540,CUST0097,2026-03-02,17:55,Tambaram,Veg Biryani,Biryani,1,170,170,27.0,,Cash on Delivery
+1110,CUST0197,2026-01-15,13:37,Mylapore,Veg Fried Rice,Chinese,1,140,140,19.0,5.0,Cash on Delivery
+1058,CUST0176,2026-01-23,21:03,Porur,Chicken Shawarma,Fast Food,1,150,150,52.0,5.0,UPI
+1554,CUST0056,2026-03-12,15:26,Porur,Filter Coffee,Beverages,1,30,30,27.0,4.0,Card
+1416,CUST0067,2026-02-23,16:39,Velachery,Mutton Biryani,Biryani,1,280,280,41.0,4.0,UPI
+1544,CUST0087,2026-03-31,10:10,Nungambakkam,Veg Manchurian,Chinese,1,160,160,33.0,4.0,Card
+1443,CUST0107,2026-01-06,20:52, Anna Nagar ,Chicken Biryani,Biryani,1,220,220,30.0,4.0,Cash on Delivery
+1055,CUST0010,2026-03-21,13:46,Nungambakkam,Chicken Biryani,Biryani,3,220,660,18.0,5.0,UPI
+1439,CUST0184,2026-02-27,19:08,Velachery,Chicken Biryani,Biryani,1,220,220,35.0,5.0,Card
+1446,CUST0077,2026-03-14,18:17,T Nagar,Veg Burger,Fast Food,1,110,110,30.0,4.0,Card
+1071,CUST0112,2026-02-02,22:04,Porur,Chicken Shawarma,Fast Food,1,150,150,46.0,5.0,UPI
+1224,CUST0067,2026-02-24,20:07,T Nagar,Chicken 65,Starters,1,200,200,52.0,5.0,Card
+1275,CUST0001,2026-02-13,23:17,Velachery,Mutton Biryani,Biryani,1,280,280,44.0,4.0,Card
+1503,CUST0094,2026-03-13,18:13,Adyar,Veg Manchurian,Chinese,1,160,160,42.0,,Cash on Delivery
+1074,CUST0099,2026-03-17,16:45,Velachery,Mutton Biryani,Biryani,1,280,280,35.0,5.0,UPI
+1124,CUST0022,2026-02-06,12:32,Anna Nagar,Mutton Biryani,Biryani,2,280,560,27.0,5.0,Cash on Delivery
+1273,CUST0198,2026-01-26,20:30,Mylapore,Cold Coffee,Beverages,3,80,240,45.0,4.0,Card
+1613,CUST0187,2026-01-22,17:58,Mylapore,Mutton Biryani,Biryani,1,280,280,22.0,,UPI
+1438,CUST0180,2026-01-13,12:19,Mylapore,Chicken Biryani,Biryani,1,220,220,42.0,3.0,UPI
+1644,CUST0157,2026-02-03,15:42,Adyar,Mutton Biryani,Biryani,1,280,280,32.0,5.0,Wallet
+1464,CUST0097,2026-02-12,18:24,Mylapore,Veg Burger,Fast Food,2,110,220,33.0,5.0,Card
+1305,CUST0107,2026-02-07,12:53,adyar,Chicken 65,Starters,1,200,200,43.0,5.0,Cash on Delivery
+1054,CUST0100,2026-03-29,16:27,Anna Nagar,Margherita Pizza,Fast Food,2,250,500,29.0,4.0,Wallet
+1404,CUST0087,2026-01-11,14:34,Velachery,Paneer Butter Masala,North Indian,2,190,380,23.0,5.0,UPI
+1347,CUST0161,2026-03-24,11:22,Velachery,Cold Coffee,Beverages,3,80,240,34.0,5.0,Card
+1639,CUST0209,2026-03-20,14:42,Mylapore,Mutton Biryani,Biryani,1,280,280,34.0,3.0,UPI
+1147,CUST0080,2026-02-06,13:39,Nungambakkam,Margherita Pizza,Fast Food,1,250,250,31.0,4.0,Cash on Delivery
+1495,CUST0018,2026-01-14,14:14,Mylapore,Masala Dosa,South Indian,2,90,180,44.0,5.0,Wallet
+1579,CUST0149,2026-01-07,09:57,Anna Nagar,Idli Sambar,South Indian,2,70,140,51.0,4.0,Card
+1649,CUST0177,2026-02-15,21:17,Adyar,Chicken Shawarma,Fast Food,1,150,150,51.0,4.0,UPI
+1087,CUST0052,2026-03-19,08:57,Tambaram,Chicken 65,Starters,1,200,200,46.0,5.0,Cash on Delivery
+1645,CUST0041,2026-02-23,13:02,Mylapore,Chicken Shawarma,Fast Food,1,150,150,43.0,3.0,UPI
+1525,CUST0143,2026-02-17,19:14,Tambaram,Chicken Biryani,Biryani,1,220,220,20.0,4.0,Card
+1550,CUST0059,2026-03-28,17:19,Mylapore,Veg Burger,Fast Food,2,110,220,53.0,4.0,Wallet
+1045,CUST0039,2026-03-08,13:35,Mylapore,Margherita Pizza,Fast Food,1,250,250,,3.0,Cash on Delivery
+1175,CUST0213,2026-03-25,19:06, Mylapore ,Chicken Biryani,Biryani,2,220,440,49.0,5.0,Card
+1482,CUST0001,2026-02-25,13:11,Adyar,Butter Naan,North Indian,1,40,40,42.0,5.0,Card
+1144,CUST0192,2026-01-16,21:56,Adyar,Filter Coffee,Beverages,1,30,30,29.0,5.0,UPI
+1430,CUST0164,2026-03-15,14:16,Nungambakkam,Veg Burger,Fast Food,2,110,220,28.0,5.0,UPI
+1366,CUST0101,2026-01-24,19:42,Porur,Veg Burger,Fast Food,1,110,110,21.0,5.0,UPI
+1140,CUST0021,2026-03-07,09:39,Porur,Mutton Biryani,Biryani,2,280,560,30.0,5.0,UPI
+1163,CUST0029,2026-02-16,14:27,Tambaram,Chicken 65,Starters,1,200,200,31.0,4.0,Wallet
+1589,CUST0108,2026-02-03,11:42,Mylapore,Mutton Biryani,Biryani,1,280,280,,5.0,UPI
+1260,CUST0049,2026-01-08,21:10,Tambaram,Mutton Biryani,Biryani,2,280,560,52.0,3.0,Wallet
+1624,CUST0035,2026-03-19,19:16,Mylapore,Chicken Biryani,Biryani,1,220,220,23.0,,Wallet
+1546,CUST0203,2026-01-14,12:04,Velachery,Chicken Shawarma,Fast Food,2,150,300,21.0,4.0,UPI
+1533,CUST0194,2026-03-30,16:43,Anna Nagar,Paneer Butter Masala,North Indian,1,190,190,26.0,3.0,Card
+1269,CUST0030,2026-01-05,13:27,T Nagar,Masala Dosa,South Indian,1,90,90,38.0,4.0,UPI
+1486,CUST0014,2026-01-24,18:48,Mylapore,Chicken Biryani,Biryani,2,220,440,28.0,4.0,UPI
+1426,CUST0018,2026-01-13,13:08,Adyar,Chicken Biryani,Biryani,1,220,220,25.0,5.0,Card
+1345,CUST0084,2026-01-03,21:21,Anna Nagar,Mutton Biryani,Biryani,1,280,280,40.0,4.0,UPI
+1204,CUST0064,2026-03-07,20:45,Nungambakkam,Butter Naan,North Indian,1,40,40,24.0,4.0,UPI
+1010,CUST0122,2026-02-24,16:01,Porur,Chole Bhature,North Indian,2,130,260,25.0,4.0,UPI
+1302,CUST0115,2026-02-01,16:03,Porur,Gulab Jamun,Desserts,1,60,60,43.0,3.0,Card
+1007,CUST0096,2026-03-14,15:53,Adyar,Chicken 65,Starters,1,200,200,48.0,3.0,Cash on Delivery
+1562,CUST0165,2026-02-18,13:26,Nungambakkam,Butter Naan,North Indian,1,40,40,43.0,4.0,Card
+1520,CUST0032,2026-03-06,22:31,Porur,Paneer Butter Masala,North Indian,1,190,190,40.0,4.0,UPI
+1467,CUST0126,2026-03-15,20:44,Nungambakkam,Chole Bhature,North Indian,2,130,260,51.0,5.0,UPI
+1483,CUST0126,2026-03-04,14:21,T Nagar,Paneer Butter Masala,North Indian,3,190,570,36.0,,Card
+1432,CUST0097,2026-02-02,12:05,Anna Nagar,Cold Coffee,Beverages,1,80,80,22.0,4.0,UPI
+1433,CUST0145,2026-03-22,18:42,Porur,Paneer Butter Masala,North Indian,1,190,190,50.0,4.0,Cash on Delivery
+1203,CUST0161,2026-01-25,12:05,Porur,Mutton Biryani,Biryani,1,280,280,32.0,5.0,Wallet
+1189,CUST0119,2026-03-16,23:37,Nungambakkam,Cold Coffee,Beverages,1,80,80,52.0,5.0,Card
+1244,CUST0204,2026-02-27,20:36,Anna Nagar,Idli Sambar,South Indian,1,70,70,20.0,5.0,Card
+1084,CUST0171,2026-03-19,23:27,T Nagar,Chicken Shawarma,Fast Food,1,150,150,33.0,5.0,Cash on Delivery
+1349,CUST0067,2026-03-21,21:31,Velachery,Chicken Shawarma,Fast Food,1,150,150,23.0,4.0,Wallet
+1389,CUST0135,2026-03-05,12:31,Tambaram,Veg Manchurian,Chinese,1,160,160,30.0,,Wallet
+1434,CUST0122,2026-02-25,17:52,Anna Nagar,Filter Coffee,Beverages,1,30,30,53.0,4.0,UPI
+1100,CUST0001,2026-01-15,18:00,Adyar,Butter Naan,North Indian,1,40,40,36.0,5.0,Cash on Delivery
+1125,CUST0163,2026-01-27,14:50,Velachery,Chicken Shawarma,Fast Food,2,150,300,19.0,5.0,UPI
+1388,CUST0085,2026-02-08,14:59,Mylapore,Gulab Jamun,Desserts,1,60,60,,5.0,Card
+1633,CUST0129,2026-01-19,13:27,Nungambakkam,Paneer Butter Masala,North Indian,1,190,190,26.0,,Card
+1088,CUST0088,2026-01-23,21:14,Tambaram,Margherita Pizza,Fast Food,1,250,250,30.0,5.0,UPI
+1501,CUST0188,2026-01-08,18:45,Velachery,Chicken Shawarma,Fast Food,1,150,150,31.0,4.0,UPI
+1394,CUST0092,2026-01-02,21:57,Porur,Chicken Shawarma,Fast Food,1,150,150,23.0,5.0,Card
+1637,CUST0010,2026-02-27,15:38,Anna Nagar,Masala Dosa,South Indian,1,90,90,47.0,4.0,
+1370,CUST0207,2026-01-05,23:50,Adyar,Veg Burger,Fast Food,2,110,220,,3.0,Cash on Delivery
+1597,CUST0021,2026-03-23,13:01,Mylapore,Chicken Biryani,Biryani,1,220,220,22.0,5.0,UPI
+1072,CUST0151,2026-03-25,08:38,Mylapore,Filter Coffee,Beverages,1,30,30,25.0,4.0,Cash on Delivery
+1167,CUST0075,2026-01-24,19:25,T Nagar,Margherita Pizza,Fast Food,2,250,500,43.0,4.0,UPI
+1437,CUST0206,2026-03-28,19:10,Mylapore,Chicken 65,Starters,2,200,400,38.0,4.0,Card
+1131,CUST0201,2026-02-24,17:58,Velachery,Filter Coffee,Beverages,1,30,30,49.0,5.0,Cash on Delivery
+1075,CUST0139,2026-01-21,13:11,Velachery,Veg Fried Rice,Chinese,1,140,140,18.0,4.0,Cash on Delivery
+1137,CUST0064,2026-03-22,20:16,porur,Filter Coffee,Beverages,1,30,30,24.0,5.0,UPI
+1611,CUST0185,2026-01-18,21:55,Anna Nagar,Idli Sambar,South Indian,1,70,70,43.0,5.0,Cash on Delivery
+1573,CUST0044,2026-01-08,11:11,Anna Nagar,Veg Fried Rice,Chinese,2,140,280,33.0,4.0,Card
+1017,CUST0031,2026-02-22,19:37,Anna Nagar,Chole Bhature,North Indian,1,130,130,24.0,4.0,UPI
+1114,CUST0195,2026-02-12,22:08,Adyar,Mutton Biryani,Biryani,2,280,560,24.0,5.0,UPI
+1008,CUST0044,2026-03-12,20:39,Adyar,Masala Dosa,South Indian,1,90,90,46.0,4.0,UPI
+1196,CUST0169,2026-02-25,19:19,T Nagar,Masala Dosa,South Indian,1,90,90,42.0,5.0,UPI
+1223,CUST0135,2026-03-18,21:04,T NAGAR,Chicken Biryani,Biryani,2,220,440,38.0,5.0,Cash on Delivery
+1174,CUST0083,2026-02-15,15:43,Nungambakkam,Veg Fried Rice,Chinese,2,140,280,25.0,4.0,Cash on Delivery
+1357,CUST0067,2026-02-25,16:17,Velachery,Masala Dosa,South Indian,1,90,90,26.0,4.0,Cash on Delivery
+1595,CUST0052,2026-01-31,12:40,Tambaram,Chicken Biryani,Biryani,2,220,440,45.0,4.0,UPI
+1531,CUST0138,2026-01-19,11:39,T Nagar,Idli Sambar,South Indian,1,70,70,31.0,4.0,Card
+1254,CUST0039,2026-03-03,11:03,Porur,Chicken Biryani,Biryani,2,220,440,39.0,4.0,Card
+1297,CUST0072,2026-02-01,16:44,Velachery,Mutton Biryani,Biryani,2,280,560,,5.0,UPI
+1068,CUST0162,2026-03-18,18:30,Adyar,Paneer Butter Masala,North Indian,2,190,380,47.0,4.0,UPI
+1218,CUST0164,2026-01-16,15:11,Velachery,Margherita Pizza,Fast Food,1,250,250,35.0,5.0,
+1187,CUST0206,2026-01-15,18:04,Porur,Veg Fried Rice,Chinese,1,140,140,47.0,3.0,Wallet
+1528,CUST0094,2026-03-09,11:42,Anna Nagar,Gulab Jamun,Desserts,2,60,120,39.0,4.0,UPI
+1205,CUST0055,2026-01-28,12:42,Tambaram,Chicken 65,Starters,1,200,200,33.0,5.0,Cash on Delivery
+1331,CUST0073,2026-01-05,12:22,T Nagar,Chole Bhature,North Indian,2,130,260,32.0,4.0,UPI
+1650,CUST0026,2026-01-19,19:26,Adyar,Veg Biryani,Biryani,1,170,170,34.0,5.0,Card
+1522,CUST0147,2026-02-17,21:32,T Nagar,Idli Sambar,South Indian,2,70,140,,4.0,UPI
+1296,CUST0219,2026-01-24,22:28,Porur,Chicken Biryani,Biryani,2,220,440,21.0,5.0,UPI
+1504,CUST0206,2026-03-01,21:49,Adyar,Chicken 65,Starters,1,200,200,36.0,5.0,Wallet
+1431,CUST0173,2026-03-14,20:27,T Nagar,Veg Manchurian,Chinese,1,160,160,24.0,4.0,Card
+1601,CUST0098,2026-01-02,17:46,Tambaram,Masala Dosa,South Indian,1,90,90,34.0,4.0,UPI
+1200,CUST0014,2026-03-09,16:46,Velachery,Margherita Pizza,Fast Food,1,250,250,,4.0,Cash on Delivery
+1341,CUST0121,2026-02-18,17:06,Mylapore,Cold Coffee,Beverages,1,80,80,38.0,3.0,UPI
+1450,CUST0073,2026-02-05,16:08,ANNA NAGAR,Chicken Biryani,Biryani,2,220,440,51.0,4.0,Card
+1295,CUST0027,2026-02-22,20:29,Velachery,Mutton Biryani,Biryani,1,280,280,44.0,4.0,Wallet
+1267,CUST0166,2026-03-09,13:30,Adyar,Veg Burger,Fast Food,1,110,110,29.0,4.0,Wallet
+1398,CUST0180,2026-01-20,21:42,T Nagar,Paneer Butter Masala,North Indian,1,190,190,40.0,5.0,UPI
+1230,CUST0169,2026-01-27,21:39,Porur,Veg Biryani,Biryani,2,170,340,18.0,5.0,Card
+1555,CUST0012,2026-01-01,22:02,Anna Nagar,Masala Dosa,South Indian,1,90,90,42.0,4.0,Wallet
+1455,CUST0179,2026-03-15,18:22,Adyar,Idli Sambar,South Indian,1,70,70,47.0,4.0,Card
+1459,CUST0034,2026-02-20,14:26,Adyar,Chicken Biryani,Biryani,1,220,220,29.0,4.0,UPI
+1527,CUST0047,2026-03-21,13:44,Anna Nagar,Margherita Pizza,Fast Food,1,250,250,22.0,5.0,Wallet
+1391,CUST0038,2026-02-23,20:24,Tambaram,Butter Naan,North Indian,1,40,40,37.0,4.0,Card
+1473,CUST0075,2026-03-21,18:32,Porur,Veg Biryani,Biryani,1,170,170,42.0,4.0,Wallet
+1425,CUST0137,2026-03-26,13:48,Velachery,Mutton Biryani,Biryani,1,280,280,54.0,5.0,Wallet
+1223,CUST0135,2026-03-18,21:04,T NAGAR,Chicken Biryani,Biryani,2,220,440,38.0,5.0,Cash on Delivery
+1106,CUST0080,2026-02-19,19:47,Adyar,Chole Bhature,North Indian,1,130,130,26.0,3.0,UPI
+1545,CUST0037,2026-02-03,13:17,Mylapore,Paneer Butter Masala,North Indian,1,190,190,50.0,,Card
+1201,CUST0171,2026-03-02,22:42,Adyar,Masala Dosa,South Indian,2,90,180,31.0,5.0,Card
+1156,CUST0008,2026-01-31,12:10,Anna Nagar,Veg Burger,Fast Food,1,110,110,49.0,5.0,UPI
+1548,CUST0065,2026-02-12,22:18,Mylapore,Chicken 65,Starters,2,200,400,21.0,5.0,Card
+1593,CUST0101,2026-01-04,14:09,Porur,Margherita Pizza,Fast Food,1,250,250,51.0,,Card
+1529,CUST0075,2026-01-29,12:07,Mylapore,Paneer Butter Masala,North Indian,1,190,190,30.0,4.0,UPI
+1517,CUST0031,2026-02-03,13:09,Anna Nagar,Chicken Biryani,Biryani,3,220,660,41.0,3.0,Wallet
+1359,CUST0172,2026-03-08,13:44,Mylapore,Veg Biryani,Biryani,1,170,170,,4.0,Wallet
+1582,CUST0152,2026-03-04,20:29,Mylapore,Filter Coffee,Beverages,1,30,30,,5.0,Cash on Delivery
+1288,CUST0144,2026-03-08,19:47,Tambaram,Chicken Biryani,Biryani,1,220,220,49.0,4.0,UPI
+1035,CUST0218,2026-03-09,21:57,Anna Nagar,Chicken Biryani,Biryani,1,220,220,31.0,5.0,UPI
+1376,CUST0010,2026-02-07,10:02,Velachery,Paneer Butter Masala,North Indian,1,190,190,38.0,,Wallet
+1310,CUST0063,2026-03-16,22:29,Nungambakkam,Chicken Biryani,Biryani,1,220,220,19.0,3.0,UPI
+1278,CUST0117,2026-03-05,10:18,Velachery,Mutton Biryani,Biryani,1,280,280,32.0,4.0,Cash on Delivery
+1015,CUST0058,2026-03-06,16:44,Adyar,Chicken Biryani,Biryani,2,220,440,22.0,4.0,UPI
+1532,CUST0020,2026-01-19,14:14,T Nagar,Veg Biryani,Biryani,1,170,170,20.0,5.0,Wallet
+1583,CUST0131,2026-01-11,17:46,Tambaram,Mutton Biryani,Biryani,1,280,280,19.0,4.0,Card
+1354,CUST0194,2026-01-01,21:39,anna nagar,Masala Dosa,South Indian,2,90,180,54.0,,Card
+1099,CUST0197,2026-03-04,13:58,Adyar,Chole Bhature,North Indian,1,130,130,23.0,4.0,Wallet
+1602,CUST0088,2026-02-04,14:45,Nungambakkam,Idli Sambar,South Indian,2,70,140,39.0,4.0,UPI
+1375,CUST0061,2026-01-23,14:34,Mylapore,Mutton Biryani,Biryani,1,280,280,18.0,5.0,Cash on Delivery
+1095,CUST0014,2026-02-20,21:35,Nungambakkam,Masala Dosa,South Indian,1,90,90,53.0,5.0,Cash on Delivery
+1032,CUST0031,2026-01-15,22:35,Mylapore,Masala Dosa,South Indian,2,90,180,47.0,,UPI
+1317,CUST0058,2026-02-11,14:41,Adyar,Veg Biryani,Biryani,1,170,170,19.0,5.0,Card
+1176,CUST0086,2026-03-30,10:00,Porur,Veg Fried Rice,Chinese,1,140,140,43.0,5.0,Wallet
+1570,CUST0113,2026-02-19,20:47,Tambaram,Idli Sambar,South Indian,2,70,140,54.0,5.0,UPI
+1107,CUST0162,2026-02-01,09:42,T Nagar,Chicken 65,Starters,2,200,400,,4.0,Wallet
+1524,CUST0048,2026-01-25,13:55,Adyar,Filter Coffee,Beverages,2,30,60,38.0,4.0,Wallet
+1252,CUST0111,2026-03-03,14:44, Velachery ,Chicken Biryani,Biryani,1,220,220,30.0,5.0,UPI
+1630,CUST0043,2026-01-06,12:30,Velachery,Filter Coffee,Beverages,1,30,30,34.0,5.0,UPI
+1479,CUST0198,2026-03-14,15:06,Velachery,Chicken Shawarma,Fast Food,1,150,150,34.0,4.0,Cash on Delivery
+1395,CUST0044,2026-01-31,12:31,Anna Nagar,Veg Biryani,Biryani,2,170,340,23.0,,
+1418,CUST0043,2026-02-26,22:41,Anna Nagar,Margherita Pizza,Fast Food,1,250,250,33.0,3.0,Cash on Delivery
+1348,CUST0091,2026-03-05,10:45,Anna Nagar,Egg Fried Rice,Chinese,1,150,150,23.0,5.0,UPI
+1474,CUST0104,2026-01-15,21:06,Velachery,Filter Coffee,Beverages,1,30,30,49.0,5.0,UPI
+1564,CUST0040,2026-02-14,13:09,Tambaram,Egg Fried Rice,Chinese,1,150,150,50.0,5.0,UPI
+1539,CUST0014,2026-02-05,13:49,Nungambakkam,Chole Bhature,North Indian,2,130,260,51.0,5.0,UPI
+1415,CUST0014,2026-03-02,14:42,Mylapore,Mutton Biryani,Biryani,2,280,560,28.0,4.0,
+1210,CUST0101,2026-02-22,17:28,Velachery,Veg Fried Rice,Chinese,1,140,140,33.0,5.0,UPI
+1390,CUST0034,2026-03-20,20:02,Nungambakkam,Chicken Biryani,Biryani,1,220,220,54.0,5.0,UPI
+1553,CUST0139,2026-02-05,18:47,Anna Nagar,Chole Bhature,North Indian,1,130,130,33.0,3.0,Cash on Delivery
+1214,CUST0150,2026-01-21,13:48, Porur ,Mutton Biryani,Biryani,1,280,280,51.0,5.0,UPI
+1393,CUST0035,2026-03-30,13:07,Nungambakkam,Mutton Biryani,Biryani,1,280,280,,4.0,Cash on Delivery
+1373,CUST0119,2026-03-17,11:27,MYLAPORE,Gulab Jamun,Desserts,2,60,120,21.0,5.0,UPI
+1102,CUST0050,2026-02-13,17:02,Nungambakkam,Mutton Biryani,Biryani,1,280,280,44.0,4.0,Wallet
+1311,CUST0088,2026-03-30,13:07,T Nagar,Veg Fried Rice,Chinese,1,140,140,48.0,4.0,Cash on Delivery
+1445,CUST0015,2026-03-26,13:41,Anna Nagar,Veg Biryani,Biryani,1,170,170,24.0,5.0,Wallet
+1056,CUST0146,2026-03-03,10:53,T Nagar,Mutton Biryani,Biryani,2,280,560,26.0,4.0,Wallet
+1069,CUST0013,2026-01-07,21:49,anna nagar,Paneer Butter Masala,North Indian,1,190,190,36.0,4.0,Cash on Delivery
+1042,CUST0102,2026-01-23,12:15,Velachery,Masala Dosa,South Indian,1,90,90,35.0,4.0,UPI
+1086,CUST0024,2026-03-01,21:46,Mylapore,Veg Burger,Fast Food,1,110,110,45.0,4.0,Card
+1498,CUST0176,2026-02-20,20:42,Tambaram,Margherita Pizza,Fast Food,1,250,250,52.0,5.0,UPI
+1135,CUST0109,2026-02-05,22:38,Adyar,Chicken 65,Starters,1,200,200,29.0,5.0,Card
+1197,CUST0157,2026-03-26,12:49,Anna Nagar,Idli Sambar,South Indian,1,70,70,19.0,4.0,Wallet
+1475,CUST0009,2026-03-13,17:32,Porur,Egg Fried Rice,Chinese,1,150,150,37.0,5.0,Wallet
+1217,CUST0046,2026-01-19,18:43,Nungambakkam,Chicken Biryani,Biryani,1,220,220,30.0,4.0,UPI
+1285,CUST0050,2026-01-19,20:35,Porur,Cold Coffee,Beverages,1,80,80,47.0,4.0,Cash on Delivery
+1148,CUST0002,2026-01-13,12:50,Mylapore,Chicken Biryani,Biryani,1,220,220,46.0,,UPI
+1563,CUST0019,2026-01-17,20:20,Anna Nagar,Gulab Jamun,Desserts,1,60,60,35.0,3.0,UPI
+1112,CUST0134,2026-03-09,20:40,Nungambakkam,Chicken Shawarma,Fast Food,3,150,450,38.0,4.0,Card
+1551,CUST0134,2026-01-14,18:48, Velachery ,Veg Burger,Fast Food,2,110,220,41.0,5.0,UPI
+1587,CUST0120,2026-02-09,12:26,Nungambakkam,Mutton Biryani,Biryani,2,280,560,43.0,5.0,UPI
+1452,CUST0063,2026-03-01,13:33,Tambaram,Filter Coffee,Beverages,2,30,60,43.0,4.0,UPI
+1560,CUST0018,2026-02-24,13:50,Porur,Chicken Biryani,Biryani,2,220,440,37.0,4.0,UPI
+1306,CUST0021,2026-01-08,13:11,T Nagar,Chicken 65,Starters,1,200,200,53.0,4.0,UPI
+1509,CUST0206,2026-02-21,12:52,Tambaram,Chicken Biryani,Biryani,1,220,220,29.0,4.0,UPI
+1382,CUST0206,2026-01-18,17:44,Porur,Filter Coffee,Beverages,1,30,30,33.0,4.0,UPI
+1268,CUST0185,2026-01-23,12:39,Adyar,Idli Sambar,South Indian,1,70,70,50.0,4.0,Cash on Delivery
+1518,CUST0091,2026-01-13,15:01,Adyar,Margherita Pizza,Fast Food,2,250,500,44.0,4.0,Wallet
+1013,CUST0206,2026-01-14,20:29,Velachery,Chole Bhature,North Indian,1,130,130,43.0,4.0,UPI
+1063,CUST0118,2026-03-04,19:26,Porur,Mutton Biryani,Biryani,1,280,280,43.0,4.0,UPI
+1171,CUST0144,2026-01-29,12:58,Anna Nagar,Margherita Pizza,Fast Food,1,250,250,39.0,4.0,UPI
+1182,CUST0006,2026-02-09,12:41,Mylapore,Chole Bhature,North Indian,1,130,130,42.0,3.0,Card
+1193,CUST0009,2026-01-22,11:21,T Nagar,Chicken Biryani,Biryani,1,220,220,23.0,5.0,Card
+1190,CUST0175,2026-03-28,23:53,Velachery,Idli Sambar,South Indian,1,70,70,44.0,4.0,UPI
+1113,CUST0207,2026-01-02,21:21,Tambaram,Chole Bhature,North Indian,1,130,130,46.0,4.0,Cash on Delivery
+1103,CUST0020,2026-01-01,12:48,Anna Nagar,Chicken Biryani,Biryani,1,220,220,35.0,5.0,Card
+1078,CUST0111,2026-01-11,14:51,Tambaram,Filter Coffee,Beverages,1,30,30,36.0,4.0,Wallet
+1191,CUST0043,2026-02-05,11:43,Anna Nagar,Chicken Shawarma,Fast Food,1,150,150,25.0,5.0,UPI
+1598,CUST0144,2026-02-28,23:49,Velachery,Egg Fried Rice,Chinese,2,150,300,34.0,4.0,Wallet
+1397,CUST0056,2026-02-12,19:15,T Nagar,Cold Coffee,Beverages,1,80,80,32.0,5.0,Cash on Delivery
+1053,CUST0193,2026-02-27,12:28,Tambaram,Chicken 65,Starters,1,200,200,21.0,5.0,UPI
+1029,CUST0204,2026-03-04,19:25,T Nagar,Veg Burger,Fast Food,2,110,220,21.0,4.0,UPI
+1066,CUST0092,2026-01-09,18:34,Tambaram,Veg Manchurian,Chinese,1,160,160,43.0,4.0,Cash on Delivery
+1588,CUST0175,2026-02-23,17:16,Porur,Margherita Pizza,Fast Food,1,250,250,40.0,5.0,UPI
+1514,CUST0112,2026-02-16,13:14,Tambaram,Paneer Butter Masala,North Indian,1,190,190,33.0,4.0,Card
+1291,CUST0134,2026-02-20,15:28,Nungambakkam,Veg Biryani,Biryani,3,170,510,18.0,5.0,Cash on Delivery
+1396,CUST0175,2026-03-08,13:35,Porur,Paneer Butter Masala,North Indian,1,190,190,38.0,5.0,UPI
+1590,CUST0170,2026-01-27,18:00,Adyar,Mutton Biryani,Biryani,1,280,280,29.0,4.0,Card
+1484,CUST0137,2026-01-14,19:50,Adyar,Margherita Pizza,Fast Food,1,250,250,38.0,,UPI
+1083,CUST0180,2026-03-08,20:38,Adyar,Chicken Biryani,Biryani,1,220,220,36.0,4.0,Wallet
+1309,CUST0136,2026-03-31,11:23,Velachery,Mutton Biryani,Biryani,1,280,280,23.0,4.0,Cash on Delivery
+1360,CUST0208,2026-01-22,21:59,T Nagar,Veg Burger,Fast Food,1,110,110,24.0,4.0,Wallet
+1355,CUST0200,2026-03-25,15:24,Tambaram,Chicken Biryani,Biryani,1,220,220,29.0,4.0,UPI
+1468,CUST0091,2026-02-24,20:38,Anna Nagar,Idli Sambar,South Indian,2,70,140,38.0,5.0,UPI
+1160,CUST0099,2026-03-27,21:58,Velachery,Veg Biryani,Biryani,1,170,170,25.0,4.0,Cash on Delivery
+1422,CUST0073,2026-03-12,13:54,Nungambakkam,Gulab Jamun,Desserts,1,60,60,,5.0,Card
+1245,CUST0123,2026-02-12,22:30,Velachery,Mutton Biryani,Biryani,1,280,280,23.0,3.0,UPI
+1526,CUST0058,2026-02-06,12:29, Adyar ,Mutton Biryani,Biryani,1,280,280,20.0,5.0,UPI
+1604,CUST0019,2026-03-25,20:51,Anna Nagar,Chicken 65,Starters,1,200,200,38.0,4.0,Card
+1480,CUST0177,2026-02-12,10:05,Velachery,Margherita Pizza,Fast Food,2,250,500,54.0,5.0,UPI
+1127,CUST0041,2026-01-23,20:08,Nungambakkam,Margherita Pizza,Fast Food,1,250,250,37.0,4.0,UPI
+1233,CUST0175,2026-01-23,13:24,Anna Nagar,Cold Coffee,Beverages,2,80,160,21.0,5.0,Card
+1212,CUST0195,2026-03-09,19:16,Mylapore,Butter Naan,North Indian,1,40,40,52.0,4.0,UPI
+1323,CUST0077,2026-01-10,13:58,Tambaram,Chicken Biryani,Biryani,2,220,440,46.0,4.0,Cash on Delivery
+1362,CUST0103,2026-02-01,19:10,Nungambakkam,Veg Biryani,Biryani,1,170,170,53.0,4.0,Wallet
+1523,CUST0039,2026-01-28,18:55,Tambaram,Veg Manchurian,Chinese,1,160,160,36.0,5.0,UPI
+1293,CUST0206,2026-01-11,18:22,Mylapore,Chicken Biryani,Biryani,1,220,220,24.0,3.0,Card
+1213,CUST0049,2026-01-18,11:37,Porur,Chole Bhature,North Indian,2,130,260,18.0,4.0,UPI
+1500,CUST0047,2026-03-14,11:30,Anna Nagar,Veg Biryani,Biryani,2,170,340,44.0,4.0,UPI
+1104,CUST0053,2026-03-03,08:50,Adyar,Egg Fried Rice,Chinese,1,150,150,49.0,5.0,Wallet
+1535,CUST0125,2026-01-17,17:47,T NAGAR,Mutton Biryani,Biryani,1,280,280,28.0,4.0,Wallet
+1401,CUST0136,2026-03-16,19:28,T Nagar,Chicken Shawarma,Fast Food,1,150,150,32.0,5.0,UPI
+1411,CUST0003,2026-03-23,14:00,Tambaram,Egg Fried Rice,Chinese,1,150,150,26.0,4.0,Cash on Delivery
+1334,CUST0115,2026-03-09,17:49,T Nagar,Chicken 65,Starters,3,200,600,19.0,5.0,UPI
+1471,CUST0218,2026-02-08,12:55,T Nagar,Veg Burger,Fast Food,1,110,110,35.0,3.0,Card
+1009,CUST0097,2026-03-02,17:51,Tambaram,Chicken Shawarma,Fast Food,1,150,150,38.0,5.0,UPI
+1259,CUST0011,2026-01-10,17:37,Tambaram,Veg Biryani,Biryani,1,170,170,49.0,4.0,UPI
+1229,CUST0114,2026-03-12,14:36,Porur,Margherita Pizza,Fast Food,1,250,250,27.0,4.0,Card
+1238,CUST0115,2026-03-05,17:20,Anna Nagar,Veg Burger,Fast Food,1,110,110,24.0,4.0,UPI
+1619,CUST0211,2026-01-05,14:03,Mylapore,Mutton Biryani,Biryani,1,280,280,38.0,3.0,Card
+1642,CUST0160,2026-02-11,19:26,T Nagar,Chicken 65,Starters,1,200,200,37.0,5.0,UPI
+1183,CUST0211,2026-02-17,13:26,T Nagar,Mutton Biryani,Biryani,1,280,280,24.0,5.0,UPI
+1462,CUST0172,2026-01-03,21:01,Adyar,Chicken Shawarma,Fast Food,1,150,150,34.0,4.0,Cash on Delivery
+1198,CUST0112,2026-01-09,17:29,Porur,Chicken Biryani,Biryani,1,220,220,33.0,4.0,Card
+1282,CUST0156,2026-02-13,12:20,Anna Nagar,Filter Coffee,Beverages,1,30,30,37.0,5.0,UPI
+1485,CUST0045,2026-01-10,23:31,Tambaram,Chole Bhature,North Indian,1,130,130,29.0,5.0,UPI
+1643,CUST0007,2026-01-02,13:43,Tambaram,Filter Coffee,Beverages,1,30,30,31.0,4.0,Cash on Delivery
+1600,CUST0115,2026-03-09,13:06,Anna Nagar,Idli Sambar,South Indian,1,70,70,31.0,5.0,Cash on Delivery
+1108,CUST0162,2026-01-14,12:35,Nungambakkam,Chicken 65,Starters,1,200,200,23.0,5.0,
+1051,CUST0211,2026-01-14,22:33,Velachery,Chole Bhature,North Indian,2,130,260,24.0,5.0,Cash on Delivery
+1188,CUST0098,2026-01-26,12:18,Tambaram,Gulab Jamun,Desserts,1,60,60,28.0,5.0,Cash on Delivery
+1342,CUST0152,2026-01-23,10:27,Nungambakkam,Chicken 65,Starters,2,200,400,40.0,5.0,Card
+1165,CUST0075,2026-01-20,19:27,T Nagar,Chicken 65,Starters,1,200,200,51.0,4.0,UPI
+1367,CUST0104,2026-03-12,13:46,T Nagar,Idli Sambar,South Indian,1,70,70,53.0,5.0,Cash on Delivery
+1023,CUST0120,2026-02-03,21:27,Nungambakkam,Paneer Butter Masala,North Indian,3,190,570,41.0,5.0,UPI
+1319,CUST0065,2026-03-10,23:16,Anna Nagar,Chicken Shawarma,Fast Food,1,150,150,49.0,5.0,UPI
+1235,CUST0213,2026-02-22,12:15,Porur,Margherita Pizza,Fast Food,2,250,500,48.0,4.0,UPI
+1169,CUST0097,2026-01-04,15:03,Adyar,Cold Coffee,Beverages,1,80,80,51.0,4.0,Wallet
+1607,CUST0115,2026-01-25,23:12,Adyar,Chicken 65,Starters,1,200,200,26.0,5.0,UPI
+1356,CUST0185,2026-02-20,17:14,Tambaram,Margherita Pizza,Fast Food,1,250,250,47.0,5.0,Card
+1070,CUST0038,2026-03-23,21:00, Mylapore ,Chole Bhature,North Indian,1,130,130,,5.0,UPI
+1402,CUST0170,2026-01-30,20:04,Adyar,Margherita Pizza,Fast Food,2,250,500,28.0,5.0,UPI
+1187,CUST0206,2026-01-15,18:04,Porur,Veg Fried Rice,Chinese,1,140,140,47.0,3.0,Wallet
+1559,CUST0213,2026-03-14,12:54,T Nagar,Chicken Biryani,Biryani,1,220,220,26.0,5.0,Card
+1552,CUST0161,2026-01-13,18:30,Adyar,Idli Sambar,South Indian,2,70,140,,5.0,Cash on Delivery
+1058,CUST0176,2026-01-23,21:03,Porur,Chicken Shawarma,Fast Food,1,150,150,52.0,5.0,UPI
+1557,CUST0194,2026-03-28,20:18,Porur,Paneer Butter Masala,North Indian,2,190,380,22.0,5.0,Wallet
+1365,CUST0197,2026-01-01,13:11,Tambaram,Butter Naan,North Indian,1,40,40,39.0,4.0,Card
+1206,CUST0106,2026-01-10,16:48,Velachery,Veg Biryani,Biryani,1,170,170,48.0,4.0,Card
+1352,CUST0019,2026-02-18,18:37,T Nagar,Masala Dosa,South Indian,1,90,90,33.0,5.0,UPI
+1152,CUST0219,2026-03-03,23:43,Adyar,Masala Dosa,South Indian,1,90,90,29.0,3.0,Cash on Delivery
+1566,CUST0038,2026-02-11,19:32,Mylapore,Veg Burger,Fast Food,1,110,110,46.0,5.0,Cash on Delivery
+1513,CUST0079,2026-03-03,19:30,Mylapore,Egg Fried Rice,Chinese,3,150,450,50.0,5.0,Cash on Delivery
+1030,CUST0162,2026-02-21,15:55,Porur,Idli Sambar,South Indian,1,70,70,29.0,5.0,UPI
+1568,CUST0075,2026-02-11,21:31,Mylapore,Chicken Biryani,Biryani,1,220,220,20.0,5.0,UPI
+1610,CUST0145,2026-02-27,19:33,Tambaram,Margherita Pizza,Fast Food,1,250,250,29.0,4.0,Cash on Delivery
+1239,CUST0176,2026-03-17,14:57,Mylapore,Margherita Pizza,Fast Food,1,250,250,50.0,4.0,UPI
+1162,CUST0011,2026-02-25,16:15,Adyar,Veg Burger,Fast Food,1,110,110,46.0,4.0,UPI
+1634,CUST0008,2026-02-05,12:52,Porur,Filter Coffee,Beverages,1,30,30,25.0,4.0,Wallet
+1488,CUST0066,2026-02-18,14:12,Nungambakkam,Mutton Biryani,Biryani,1,280,280,21.0,5.0,UPI
+1456,CUST0145,2026-02-18,13:03,Tambaram,Egg Fried Rice,Chinese,2,150,300,26.0,3.0,Wallet
+1324,CUST0028,2026-03-17,22:05,Porur,Chicken Biryani,Biryani,1,220,220,44.0,5.0,Cash on Delivery
+1117,CUST0095,2026-03-08,09:12,Porur,Chole Bhature,North Indian,2,130,260,52.0,4.0,UPI
+1343,CUST0071,2026-02-05,10:43,Anna Nagar,Veg Manchurian,Chinese,3,160,480,31.0,5.0,Cash on Delivery
+1258,CUST0011,2026-02-02,16:01,Tambaram,Egg Fried Rice,Chinese,2,150,300,41.0,5.0,Cash on Delivery
+1516,CUST0103,2026-01-01,22:20,Tambaram,Veg Fried Rice,Chinese,1,140,140,29.0,5.0,Card
+1629,CUST0103,2026-03-13,13:15,Tambaram,Margherita Pizza,Fast Food,1,250,250,20.0,4.0,Card
+1572,CUST0002,2026-03-12,22:07,Porur,Margherita Pizza,Fast Food,1,250,250,23.0,5.0,Card
+1380,CUST0173,2026-03-10,13:14,Adyar,Veg Biryani,Biryani,1,170,170,39.0,5.0,UPI
+1047,CUST0219,2026-03-13,22:05,Adyar,Veg Fried Rice,Chinese,1,140,140,37.0,4.0,Card
+1004,CUST0167,2026-02-10,20:53,Nungambakkam,Masala Dosa,South Indian,1,90,90,25.0,4.0,Cash on Delivery
+1369,CUST0096,2026-02-28,22:36,Anna Nagar,Paneer Butter Masala,North Indian,1,190,190,39.0,4.0,Cash on Delivery
+1635,CUST0047,2026-02-19,15:37,Porur,Chicken Biryani,Biryani,2,220,440,29.0,5.0,Wallet
+1454,CUST0203,2026-01-07,19:41,Nungambakkam,Veg Burger,Fast Food,1,110,110,20.0,5.0,Wallet
+1236,CUST0073,2026-01-12,12:05,Velachery,Gulab Jamun,Desserts,1,60,60,20.0,4.0,Cash on Delivery
+1031,CUST0211,2026-03-25,10:35,Tambaram,Egg Fried Rice,Chinese,1,150,150,44.0,4.0,Wallet
+1155,CUST0062,2026-01-07,11:13,Anna Nagar,Masala Dosa,South Indian,2,90,180,21.0,,Cash on Delivery
+1336,CUST0102,2026-01-23,13:05,Adyar,Mutton Biryani,Biryani,1,280,280,48.0,5.0,
+1351,CUST0033,2026-02-08,18:20,Adyar,Paneer Butter Masala,North Indian,1,190,190,54.0,4.0,Wallet
+1631,CUST0169,2026-01-31,21:15,Adyar,Egg Fried Rice,Chinese,1,150,150,23.0,5.0,UPI
+1493,CUST0151,2026-01-04,19:37,Anna Nagar,Filter Coffee,Beverages,2,30,60,,4.0,UPI
+1280,CUST0080,2026-01-24,22:12,Velachery,Chicken Biryani,Biryani,1,220,220,30.0,4.0,UPI
+1052,CUST0122,2026-02-25,14:28,Mylapore,Chicken 65,Starters,3,200,600,54.0,4.0,Wallet
+1037,CUST0156,2026-01-05,12:49,Anna Nagar,Veg Fried Rice,Chinese,1,140,140,47.0,4.0,Card
+1098,CUST0009,2026-03-30,18:27,Nungambakkam,Chicken Biryani,Biryani,1,220,220,29.0,4.0,UPI
+1481,CUST0150,2026-01-26,12:00,Tambaram,Veg Biryani,Biryani,2,170,340,46.0,4.0,UPI
+1014,CUST0139,2026-01-31,22:07,Adyar,Chicken 65,Starters,1,200,200,51.0,5.0,Cash on Delivery
+1164,CUST0001,2026-03-11,12:38,Nungambakkam,Masala Dosa,South Indian,1,90,90,50.0,5.0,UPI
+1059,CUST0100,2026-01-19,12:41,Tambaram,Chicken Shawarma,Fast Food,1,150,150,21.0,4.0,Cash on Delivery
+1064,CUST0089,2026-03-29,13:08,Anna Nagar,Masala Dosa,South Indian,1,90,90,29.0,5.0,UPI
+1234,CUST0140,2026-01-10,16:28,Anna Nagar,Mutton Biryani,Biryani,2,280,560,41.0,5.0,UPI
+1508,CUST0004,2026-02-15,09:10,Anna Nagar,Veg Manchurian,Chinese,1,160,160,,5.0,Cash on Delivery
+1577,CUST0130,2026-03-16,18:02, Tambaram ,Chicken Biryani,Biryani,1,220,220,50.0,3.0,Cash on Delivery
+1413,CUST0086,2026-03-20,22:10,Nungambakkam,Gulab Jamun,Desserts,1,60,60,51.0,3.0,UPI
+1169,CUST0097,2026-01-04,15:03,Adyar,Cold Coffee,Beverages,1,80,80,51.0,4.0,Wallet
+1423,CUST0015,2026-03-04,12:03,T Nagar,Chicken Biryani,Biryani,1,220,220,29.0,,Cash on Delivery
+1406,CUST0155,2026-01-28,19:11,Porur,Margherita Pizza,Fast Food,2,250,500,32.0,4.0,Cash on Delivery
+1266,CUST0203,2026-02-27,12:59,Velachery,Veg Manchurian,Chinese,1,160,160,21.0,3.0,Card
+1616,CUST0190,2026-03-06,14:28,Tambaram,Mutton Biryani,Biryani,1,280,280,28.0,4.0,Card
+1385,CUST0028,2026-01-15,12:18,Tambaram,Butter Naan,North Indian,1,40,40,,3.0,Wallet
+1405,CUST0103,2026-03-13,11:22,Adyar,Veg Biryani,Biryani,3,170,510,22.0,5.0,UPI
+1079,CUST0138,2026-02-26,12:00,Adyar,Mutton Biryani,Biryani,1,280,280,40.0,4.0,UPI
+1046,CUST0135,2026-02-22,22:05,Mylapore,Cold Coffee,Beverages,2,80,160,23.0,5.0,Cash on Delivery
+1372,CUST0026,2026-01-20,13:21,NUNGAMBAKKAM,Chicken 65,Starters,1,200,200,43.0,5.0,UPI
+1332,CUST0111,2026-01-21,21:20,Nungambakkam,Chicken Shawarma,Fast Food,2,150,300,32.0,4.0,Card
+1158,CUST0165,2026-02-07,13:13,Mylapore,Chicken Biryani,Biryani,1,220,220,45.0,4.0,UPI
+1025,CUST0186,2026-03-22,21:06,Tambaram,Paneer Butter Masala,North Indian,2,190,380,30.0,4.0,UPI
+1121,CUST0013,2026-02-12,13:07,Anna Nagar,Idli Sambar,South Indian,3,70,210,27.0,4.0,UPI
+1472,CUST0011,2026-01-01,20:09,Adyar,Veg Biryani,Biryani,1,170,170,47.0,4.0,UPI
+1496,CUST0191,2026-02-22,21:45,Porur,Chicken 65,Starters,2,200,400,48.0,5.0,Card
+1257,CUST0191,2026-02-14,13:55,Velachery,Butter Naan,North Indian,1,40,40,45.0,4.0,Cash on Delivery
+1383,CUST0183,2026-01-12,15:39,Tambaram,Cold Coffee,Beverages,1,80,80,45.0,4.0,UPI
+1615,CUST0164,2026-01-29,21:53,T Nagar,Chicken Biryani,Biryani,3,220,660,23.0,4.0,Cash on Delivery
+1618,CUST0137,2026-02-12,13:11,Adyar,Masala Dosa,South Indian,1,90,90,28.0,4.0,Card
+1614,CUST0215,2026-03-24,15:19,Velachery,Margherita Pizza,Fast Food,3,250,750,41.0,5.0,Cash on Delivery
+1492,CUST0162,2026-03-07,12:29,Nungambakkam,Butter Naan,North Indian,3,40,120,21.0,5.0,UPI
+1290,CUST0060,2026-03-10,18:19,Anna Nagar,Veg Biryani,Biryani,1,170,170,33.0,4.0,UPI
+1558,CUST0122,2026-03-26,22:39,T Nagar,Chicken Biryani,Biryani,1,220,220,44.0,4.0,Wallet
+1247,CUST0088,2026-02-26,14:23,Mylapore,Chole Bhature,North Indian,2,130,260,23.0,5.0,Card
+1123,CUST0078,2026-03-27,11:24,T Nagar,Paneer Butter Masala,North Indian,1,190,190,33.0,5.0,Card
+1477,CUST0040,2026-03-10,12:13,Adyar,Masala Dosa,South Indian,1,90,90,40.0,5.0,UPI
+1320,CUST0130,2026-02-20,19:00,T Nagar,Veg Biryani,Biryani,1,170,170,54.0,4.0,Card
+1640,CUST0108,2026-03-25,14:57,T NAGAR,Mutton Biryani,Biryani,1,280,280,24.0,5.0,Cash on Delivery
+1067,CUST0076,2026-02-19,16:31,Mylapore,Butter Naan,North Indian,1,40,40,47.0,5.0,Wallet
+1195,CUST0025,2026-01-09,13:24,Velachery,Cold Coffee,Beverages,1,80,80,,5.0,UPI
+1178,CUST0193,2026-01-06,12:16,Velachery,Idli Sambar,South Indian,1,70,70,46.0,5.0,Wallet
+1207,CUST0076,2026-02-05,13:54,nungambakkam,Paneer Butter Masala,North Indian,1,190,190,31.0,4.0,UPI
+1128,CUST0117,2026-01-27,22:09,Anna Nagar,Chicken Shawarma,Fast Food,1,150,150,50.0,4.0,Card
+1177,CUST0053,2026-02-14,17:27,Anna Nagar,Chicken Shawarma,Fast Food,1,150,150,50.0,4.0,Card
+1337,CUST0077,2026-01-15,18:48,Adyar,Egg Fried Rice,Chinese,2,150,300,34.0,5.0,Wallet
+1194,CUST0125,2026-03-01,13:37,Tambaram,Egg Fried Rice,Chinese,2,150,300,47.0,5.0,UPI
+1549,CUST0069,2026-01-29,21:53,Nungambakkam,Idli Sambar,South Indian,2,70,140,29.0,5.0,Wallet
+1001,CUST0020,2026-03-11,16:25,Nungambakkam,Chicken 65,Starters,1,200,200,37.0,5.0,Cash on Delivery
+1227,CUST0056,2026-02-17,12:20,Nungambakkam,Cold Coffee,Beverages,2,80,160,48.0,5.0,
+1334,CUST0115,2026-03-09,17:49,T Nagar,Chicken 65,Starters,3,200,600,19.0,5.0,UPI
+1250,CUST0189,2026-02-04,21:31,T Nagar,Masala Dosa,South Indian,3,90,270,29.0,,Wallet
+1470,CUST0166,2026-01-07,20:32,Tambaram,Margherita Pizza,Fast Food,1,250,250,37.0,4.0,Card
+1109,CUST0059,2026-01-01,09:33,Porur,Veg Fried Rice,Chinese,1,140,140,39.0,5.0,
+1427,CUST0167,2026-02-04,18:34,Anna Nagar,Mutton Biryani,Biryani,2,280,560,37.0,5.0,Wallet
+1006,CUST0042,2026-01-30,19:13,Porur,Veg Burger,Fast Food,2,110,220,34.0,4.0,Cash on Delivery
+1261,CUST0114,2026-03-27,09:52,Nungambakkam,Gulab Jamun,Desserts,2,60,120,,5.0,UPI
+1632,CUST0070,2026-02-27,22:14,Velachery,Chicken 65,Starters,1,200,200,45.0,4.0,Card
+1314,CUST0015,2026-01-07,10:05,Porur,Margherita Pizza,Fast Food,1,250,250,20.0,5.0,UPI
+1060,CUST0187,2026-01-05,13:11,Anna Nagar,Gulab Jamun,Desserts,1,60,60,44.0,3.0,Card
+1346,CUST0098,2026-01-19,15:27,Nungambakkam,Margherita Pizza,Fast Food,1,250,250,46.0,4.0,UPI
+1048,CUST0135,2026-01-01,17:34,Mylapore,Chicken Shawarma,Fast Food,2,150,300,37.0,4.0,Card
+1586,CUST0201,2026-03-16,19:43,Tambaram,Chicken Shawarma,Fast Food,1,150,150,25.0,5.0,UPI
+1303,CUST0007,2026-01-12,20:01,Tambaram,Chicken 65,Starters,2,200,400,40.0,5.0,Cash on Delivery
+1543,CUST0030,2026-03-13,13:44,Mylapore,Margherita Pizza,Fast Food,1,250,250,46.0,5.0,UPI
+1287,CUST0015,2026-03-25,12:55,Porur,Chicken Shawarma,Fast Food,1,150,150,28.0,3.0,Cash on Delivery
+1606,CUST0020,2026-03-05,14:08,Porur,Chicken Biryani,Biryani,3,220,660,19.0,4.0,UPI
+1576,CUST0114,2026-03-12,08:49,Velachery,Cold Coffee,Beverages,2,80,160,40.0,5.0,UPI
+1313,CUST0072,2026-01-16,11:31,Mylapore,Paneer Butter Masala,North Indian,2,190,380,18.0,5.0,Cash on Delivery
+1509,CUST0206,2026-02-21,12:52,Tambaram,Chicken Biryani,Biryani,1,220,220,29.0,4.0,UPI
+1469,CUST0114,2026-03-28,20:07,Porur,Gulab Jamun,Desserts,2,60,120,50.0,5.0,UPI
+1561,CUST0150,2026-01-19,21:50,Anna Nagar,Egg Fried Rice,Chinese,2,150,300,51.0,4.0,UPI
+1460,CUST0058,2026-03-21,21:21,T Nagar,Chicken 65,Starters,2,200,400,30.0,4.0,Cash on Delivery
+1461,CUST0009,2026-03-04,18:38,Anna Nagar,Chicken Biryani,Biryani,3,220,660,41.0,5.0,Wallet
+1384,CUST0137,2026-02-08,12:14,Porur,Paneer Butter Masala,North Indian,1,190,190,26.0,5.0,UPI
+1018,CUST0109,2026-03-02,19:06,Nungambakkam,Margherita Pizza,Fast Food,1,250,250,24.0,4.0,Card
+1541,CUST0097,2026-03-27,19:10,Tambaram,Masala Dosa,South Indian,2,90,180,29.0,4.0,Wallet
+1043,CUST0162,2026-01-30,14:10,Mylapore,Paneer Butter Masala,North Indian,2,190,380,42.0,4.0,UPI
+1591,CUST0056,2026-02-04,12:34,T Nagar,Veg Biryani,Biryani,1,170,170,53.0,5.0,Cash on Delivery
+1623,CUST0023,2026-02-06,21:56,Adyar,Margherita Pizza,Fast Food,1,250,250,43.0,4.0,UPI
+1596,CUST0093,2026-01-19,12:58,Nungambakkam,Mutton Biryani,Biryani,1,280,280,23.0,5.0,UPI
+1647,CUST0002,2026-01-28,12:07,Mylapore,Mutton Biryani,Biryani,2,280,560,19.0,5.0,Cash on Delivery
+1512,CUST0105,2026-02-20,13:28,Anna Nagar,Chicken 65,Starters,1,200,200,34.0,5.0,UPI
+1077,CUST0193,2026-01-31,21:19,Velachery,Chicken Shawarma,Fast Food,2,150,300,31.0,5.0,Card
+1142,CUST0148,2026-03-28,20:32,Nungambakkam,Egg Fried Rice,Chinese,1,150,150,53.0,5.0,UPI
+1636,CUST0110,2026-03-16,16:30,Mylapore,Veg Manchurian,Chinese,1,160,160,28.0,4.0,Cash on Delivery
+1153,CUST0168,2026-02-01,20:40,Nungambakkam,Veg Burger,Fast Food,1,110,110,32.0,5.0,Cash on Delivery
+1033,CUST0064,2026-03-16,21:27,T Nagar,Filter Coffee,Beverages,1,30,30,52.0,5.0,UPI
+1016,CUST0100,2026-03-14,12:34,Velachery,Chicken Shawarma,Fast Food,2,150,300,49.0,4.0,Card
+1436,CUST0018,2026-01-02,14:28,Anna Nagar,Mutton Biryani,Biryani,2,280,560,26.0,5.0,UPI
+1499,CUST0160,2026-03-29,13:28,Mylapore,Chicken Shawarma,Fast Food,1,150,150,41.0,4.0,Wallet
+1506,CUST0204,2026-03-25,20:20,Anna Nagar,Butter Naan,North Indian,1,40,40,26.0,4.0,Card
+1404,CUST0087,2026-01-11,14:34,Velachery,Paneer Butter Masala,North Indian,2,190,380,23.0,5.0,UPI
+1451,CUST0159,2026-02-08,08:39,Porur,Masala Dosa,South Indian,3,90,270,19.0,,Wallet
+1036,CUST0033,2026-03-25,22:08,Tambaram,Paneer Butter Masala,North Indian,1,190,190,24.0,4.0,UPI
+1226,CUST0053,2026-02-15,15:34,NUNGAMBAKKAM,Margherita Pizza,Fast Food,1,250,250,47.0,,Cash on Delivery
+1173,CUST0085,2026-02-11,19:21,Tambaram,Paneer Butter Masala,North Indian,1,190,190,20.0,3.0,UPI
+1242,CUST0150,2026-01-05,11:24,Porur,Masala Dosa,South Indian,2,90,180,26.0,4.0,Cash on Delivery
+1530,CUST0020,2026-01-17,12:25,Mylapore,Mutton Biryani,Biryani,1,280,280,53.0,4.0,UPI
+1344,CUST0004,2026-02-12,18:49,T Nagar,Chicken 65,Starters,2,200,400,40.0,4.0,Wallet
+1157,CUST0093,2026-02-05,20:35,Adyar,Chicken Shawarma,Fast Food,1,150,150,37.0,4.0,UPI
+1603,CUST0051,2026-01-28,16:51,Adyar,Chicken Shawarma,Fast Food,1,150,150,45.0,4.0,Cash on Delivery
+1592,CUST0068,2026-01-10,19:22,Anna Nagar,Veg Burger,Fast Food,1,110,110,38.0,4.0,UPI
+1594,CUST0101,2026-01-26,09:33,T Nagar,Gulab Jamun,Desserts,1,60,60,49.0,5.0,Card
+1507,CUST0027,2026-02-28,19:29,Nungambakkam,Chole Bhature,North Indian,1,130,130,22.0,4.0,UPI
+1361,CUST0187,2026-03-03,18:01,Velachery,Veg Burger,Fast Food,2,110,220,18.0,5.0,UPI
+1556,CUST0115,2026-01-29,19:23,Anna Nagar,Chicken Biryani,Biryani,1,220,220,27.0,5.0,Card
+1216,CUST0056,2026-02-22,21:22,Nungambakkam,Chicken Biryani,Biryani,1,220,220,25.0,5.0,UPI
+1209,CUST0137,2026-03-31,19:26,Porur,Margherita Pizza,Fast Food,2,250,500,31.0,3.0,UPI
+1065,CUST0034,2026-02-06,13:56,Tambaram,Paneer Butter Masala,North Indian,1,190,190,29.0,4.0,UPI
+1011,CUST0188,2026-01-26,13:26,Mylapore,Veg Fried Rice,Chinese,2,140,280,54.0,4.0,Cash on Delivery
+1179,CUST0174,2026-03-19,12:55,tambaram,Margherita Pizza,Fast Food,1,250,250,22.0,5.0,Card
+1253,CUST0013,2026-01-21,20:59,Tambaram,Chicken Biryani,Biryani,1,220,220,22.0,5.0,UPI
+1262,CUST0213,2026-01-07,19:50,Porur,Masala Dosa,South Indian,1,90,90,40.0,4.0,Cash on Delivery
+1101,CUST0117,2026-01-24,14:35,T Nagar,Idli Sambar,South Indian,1,70,70,30.0,4.0,Wallet
+1168,CUST0022,2026-02-11,12:37,T Nagar,Chicken Shawarma,Fast Food,2,150,300,49.0,5.0,Wallet
+1578,CUST0121,2026-02-03,22:50,Porur,Cold Coffee,Beverages,1,80,80,21.0,4.0,Cash on Delivery
+1315,CUST0063,2026-03-13,17:01,Tambaram,Gulab Jamun,Desserts,1,60,60,39.0,3.0,Card
+1519,CUST0050,2026-01-04,23:05,Nungambakkam,Cold Coffee,Beverages,1,80,80,36.0,5.0,Card
+1585,CUST0210,2026-02-16,14:17,T Nagar,Masala Dosa,South Indian,2,90,180,36.0,4.0,UPI
+1447,CUST0099,2026-03-02,21:08,Tambaram,Chicken Shawarma,Fast Food,1,150,150,50.0,,UPI
+1626,CUST0077,2026-02-07,20:51,Anna Nagar,Veg Biryani,Biryani,2,170,340,35.0,5.0,UPI
+1368,CUST0050,2026-01-10,21:04,Velachery,Margherita Pizza,Fast Food,1,250,250,47.0,5.0,Card
+1146,CUST0164,2026-01-10,17:28,Mylapore,Veg Manchurian,Chinese,1,160,160,,4.0,Card
+1363,CUST0211,2026-01-21,18:31,Porur,Chicken Biryani,Biryani,1,220,220,37.0,5.0,
+1621,CUST0044,2026-03-17,21:27,T Nagar,Chicken Biryani,Biryani,1,220,220,47.0,5.0,UPI
+1322,CUST0055,2026-03-20,22:19,Tambaram,Gulab Jamun,Desserts,1,60,60,43.0,5.0,Card
+1186,CUST0009,2026-02-16,10:54,Adyar,Veg Burger,Fast Food,1,110,110,52.0,3.0,Cash on Delivery
+1133,CUST0145,2026-02-26,20:38,Nungambakkam,Veg Biryani,Biryani,2,170,340,37.0,5.0,UPI
+1120,CUST0075,2026-01-18,20:05,Tambaram,Paneer Butter Masala,North Indian,1,190,190,50.0,4.0,Card
+1143,CUST0158,2026-03-29,15:26,Mylapore,Chicken Biryani,Biryani,1,220,220,43.0,5.0,UPI
+1039,CUST0208,2026-02-07,11:00,Adyar,Filter Coffee,Beverages,1,30,30,,3.0,Wallet
+1494,CUST0093,2026-02-13,16:01,Mylapore,Veg Biryani,Biryani,1,170,170,50.0,5.0,UPI
+1620,CUST0044,2026-02-09,13:02,Tambaram,Margherita Pizza,Fast Food,1,250,250,54.0,4.0,Card
+1339,CUST0200,2026-02-22,20:08,VELACHERY,Chicken Biryani,Biryani,1,220,220,29.0,,UPI
+1085,CUST0059,2026-03-25,21:14,Anna Nagar,Chole Bhature,North Indian,1,130,130,31.0,5.0,Cash on Delivery
+1225,CUST0216,2026-03-09,21:09,Mylapore,Paneer Butter Masala,North Indian,1,190,190,54.0,5.0,Card
+1020,CUST0107,2026-01-15,17:34,Nungambakkam,Butter Naan,North Indian,1,40,40,27.0,4.0,UPI
+1073,CUST0202,2026-03-31,18:12,Nungambakkam,Gulab Jamun,Desserts,1,60,60,36.0,4.0,UPI
+1419,CUST0111,2026-03-10,21:33,Anna Nagar,Chicken Shawarma,Fast Food,1,150,150,18.0,4.0,Wallet
+1076,CUST0019,2026-03-18,19:38,Velachery,Chicken Shawarma,Fast Food,1,150,150,42.0,4.0,Card
+1381,CUST0137,2026-02-04,16:18,Nungambakkam,Paneer Butter Masala,North Indian,2,190,380,28.0,,UPI
+1386,CUST0049,2026-02-05,12:06,T Nagar,Gulab Jamun,Desserts,1,60,60,23.0,5.0,Wallet
+1453,CUST0193,2026-01-13,20:14,Porur,Chicken Biryani,Biryani,2,220,440,49.0,3.0,UPI
+1265,CUST0208,2026-03-19,14:11,Nungambakkam,Veg Biryani,Biryani,1,170,170,35.0,4.0,Cash on Delivery
+1041,CUST0135,2026-03-12,12:49,Tambaram,Idli Sambar,South Indian,2,70,140,48.0,4.0,Card
+1429,CUST0138,2026-02-01,20:58,Nungambakkam,Veg Fried Rice,Chinese,1,140,140,49.0,4.0,
+1161,CUST0002,2026-02-20,18:23,Nungambakkam,Chicken 65,Starters,1,200,200,37.0,5.0,Card
+1111,CUST0042,2026-01-02,19:09,T Nagar,Margherita Pizza,Fast Food,1,250,250,40.0,5.0,UPI
+1304,CUST0138,2026-02-23,21:50,Anna Nagar,Veg Fried Rice,Chinese,1,140,140,19.0,,Card
+1641,CUST0125,2026-02-09,13:25,Anna Nagar,Masala Dosa,South Indian,2,90,180,53.0,4.0,Card
+1049,CUST0031,2026-03-25,12:47,Anna Nagar,Chicken Biryani,Biryani,1,220,220,44.0,5.0,Cash on Delivery
+1510,CUST0086,2026-01-14,21:41,Mylapore,Egg Fried Rice,Chinese,1,150,150,46.0,3.0,Cash on Delivery
+1019,CUST0065,2026-01-03,22:25,Velachery,Chicken Shawarma,Fast Food,1,150,150,28.0,4.0,Wallet
+1044,CUST0201,2026-02-11,21:32,Velachery,Veg Burger,Fast Food,1,110,110,42.0,5.0,UPI
+1274,CUST0010,2026-02-18,14:08,Anna Nagar,Chicken Biryani,Biryani,1,220,220,54.0,5.0,UPI
+1444,CUST0003,2026-01-13,19:48,T Nagar,Chole Bhature,North Indian,2,130,260,49.0,5.0,UPI
+1091,CUST0014,2026-02-05,22:13,Velachery,Mutton Biryani,Biryani,1,280,280,21.0,4.0,UPI
+1276,CUST0208,2026-01-05,16:05,Anna Nagar,Idli Sambar,South Indian,3,70,210,52.0,4.0,Card
+1115,CUST0076,2026-02-12,20:38,Porur,Chole Bhature,North Indian,1,130,130,21.0,5.0,Cash on Delivery
+1329,CUST0214,2026-03-20,20:19,Anna Nagar,Veg Fried Rice,Chinese,1,140,140,18.0,5.0,Card
+1581,CUST0122,2026-01-17,11:41,Mylapore,Chicken Biryani,Biryani,2,220,440,26.0,5.0,UPI
+1466,CUST0165,2026-03-13,17:12,Adyar,Chicken Biryani,Biryani,2,220,440,39.0,5.0,UPI
+1132,CUST0217,2026-02-03,12:28,Nungambakkam,Butter Naan,North Indian,1,40,40,52.0,4.0,Cash on Delivery
+1002,CUST0214,2026-02-16,16:07,Tambaram,Cold Coffee,Beverages,1,80,80,31.0,5.0,UPI
+1228,CUST0202,2026-02-01,17:38,Anna Nagar,Chicken Biryani,Biryani,1,220,220,54.0,5.0,UPI
+1134,CUST0096,2026-02-19,13:59,Porur,Masala Dosa,South Indian,1,90,90,,4.0,Card
+1249,CUST0140,2026-02-22,23:00,Porur,Filter Coffee,Beverages,1,30,30,44.0,5.0,UPI
+1284,CUST0060,2026-01-25,14:11,Velachery,Butter Naan,North Indian,1,40,40,32.0,3.0,UPI
+1497,CUST0037,2026-02-27,18:40,Nungambakkam,Masala Dosa,South Indian,2,90,180,,5.0,
+1336,CUST0102,2026-01-23,13:05,Adyar,Mutton Biryani,Biryani,1,280,280,48.0,5.0,
+1440,CUST0078,2026-02-19,17:29,Anna Nagar,Chicken Shawarma,Fast Food,1,150,150,53.0,4.0,UPI
+1264,CUST0069,2026-01-03,12:22,Velachery,Masala Dosa,South Indian,2,90,180,26.0,5.0,UPI
+1143,CUST0158,2026-03-29,15:26,Mylapore,Chicken Biryani,Biryani,1,220,220,43.0,5.0,UPI
+1246,CUST0021,2026-02-02,20:46,Mylapore,Veg Fried Rice,Chinese,1,140,140,19.0,5.0,UPI
+1028,CUST0171,2026-02-09,09:08,T Nagar,Mutton Biryani,Biryani,1,280,280,26.0,4.0,Card
+1442,CUST0011,2026-02-12,11:35,anna nagar,Cold Coffee,Beverages,1,80,80,52.0,5.0,UPI
+1139,CUST0042,2026-02-28,14:41,Velachery,Masala Dosa,South Indian,1,90,90,48.0,5.0,Cash on Delivery
+1364,CUST0113,2026-03-02,12:24,Adyar,Chicken Shawarma,Fast Food,1,150,150,45.0,4.0,Wallet
+1090,CUST0158,2026-02-27,15:17,Tambaram,Veg Fried Rice,Chinese,3,140,420,23.0,5.0,Card
+1024,CUST0064,2026-03-31,12:56,Tambaram,Masala Dosa,South Indian,3,90,270,19.0,5.0,Cash on Delivery
+1609,CUST0142,2026-03-31,13:00,Adyar,Veg Burger,Fast Food,1,110,110,38.0,5.0,UPI
+1080,CUST0204,2026-01-13,08:35,Velachery,Chicken 65,Starters,1,200,200,28.0,5.0,Card
+1126,CUST0046,2026-01-21,12:53,Velachery,Veg Burger,Fast Food,1,110,110,27.0,4.0,UPI
+1243,CUST0102,2026-02-19,20:57,Velachery,Idli Sambar,South Indian,1,70,70,44.0,4.0,Card
+1371,CUST0132,2026-02-01,19:33,Tambaram,Paneer Butter Masala,North Indian,1,190,190,35.0,4.0,Card
+1327,CUST0184,2026-02-21,11:28,Velachery,Veg Fried Rice,Chinese,1,140,140,30.0,5.0,Card
+1580,CUST0028,2026-01-08,20:14,Adyar,Chicken Shawarma,Fast Food,2,150,300,53.0,5.0,Cash on Delivery
+1505,CUST0145,2026-01-08,21:16,Porur,Veg Biryani,Biryani,1,170,170,43.0,5.0,UPI
+1409,CUST0051,2026-02-23,16:08,T Nagar,Margherita Pizza,Fast Food,1,250,250,20.0,4.0,UPI
+1606,CUST0020,2026-03-05,14:08,Porur,Chicken Biryani,Biryani,3,220,660,19.0,4.0,UPI
+1082,CUST0172,2026-02-15,16:43,Mylapore,Veg Manchurian,Chinese,3,160,480,38.0,5.0,UPI
+1469,CUST0114,2026-03-28,20:07,Porur,Gulab Jamun,Desserts,2,60,120,50.0,5.0,UPI
+1232,CUST0207,2026-02-18,21:15,T Nagar,Margherita Pizza,Fast Food,1,250,250,45.0,5.0,Cash on Delivery
+1502,CUST0076,2026-01-02,12:55,T Nagar,Butter Naan,North Indian,1,40,40,54.0,4.0,UPI
+1038,CUST0087,2026-03-08,21:52,Tambaram,Mutton Biryani,Biryani,1,280,280,19.0,4.0,Card
+1141,CUST0200,2026-03-02,12:52,Adyar,Mutton Biryani,Biryani,1,280,280,28.0,5.0,
+1547,CUST0044,2026-01-30,19:08,Tambaram,Chicken 65,Starters,2,200,400,34.0,5.0,Card
+1638,CUST0017,2026-03-09,19:16,TAMBARAM,Gulab Jamun,Desserts,2,60,120,29.0,5.0,Wallet
+1237,CUST0161,2026-02-22,20:02,Mylapore,Margherita Pizza,Fast Food,1,250,250,34.0,5.0,UPI
+1417,CUST0143,2026-01-15,14:48,Adyar,Masala Dosa,South Indian,1,90,90,43.0,5.0,UPI
+1605,CUST0148,2026-03-11,14:36,Mylapore,Idli Sambar,South Indian,1,70,70,22.0,5.0,Wallet
+1622,CUST0191,2026-03-31,12:34,Adyar,Margherita Pizza,Fast Food,1,250,250,43.0,3.0,Card
+1584,CUST0063,2026-01-08,19:09,T Nagar,Chicken 65,Starters,1,200,200,24.0,5.0,UPI
+1333,CUST0198,2026-03-28,15:11,Anna Nagar,Margherita Pizza,Fast Food,2,250,500,42.0,5.0,UPI
+1270,CUST0115,2026-03-03,14:36,Adyar,Chicken Biryani,Biryani,1,220,220,42.0,4.0,Card
+1338,CUST0034,2026-03-27,19:49,Tambaram,Veg Manchurian,Chinese,1,160,160,40.0,3.0,Wallet
+1092,CUST0015,2026-01-28,19:27,Porur,Masala Dosa,South Indian,3,90,270,30.0,5.0,Card
+1081,CUST0193,2026-02-12,20:39, Porur ,Chicken 65,Starters,3,200,600,41.0,5.0,UPI
